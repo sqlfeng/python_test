@@ -41,7 +41,7 @@ if __name__ == '__main__':
     argsss="".join(commandsss)
     if len(args) < 1:
         print "*"*80
-        print "                 E.g:python coremail.py mail.baidu.com  user pass (不带@域名)"
+        print "                 E.g:python coremail_export.py mail.baidu.com  user pass (不带@域名)"
         print "                                                       by sqlfeng"
         print "*"*80
     else:
