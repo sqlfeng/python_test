@@ -1,8 +1,2 @@
-#我是新手上路,代码水平比较烂,大家别当回事
 
-#有bug或者疑问联系我
-
-
-
-
-Email:3166323@qq.com 
+Email:sqlfeng@qq.com 
